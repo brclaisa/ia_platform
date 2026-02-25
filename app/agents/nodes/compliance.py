@@ -11,7 +11,7 @@ BLOCKED_PATTERNS = [
     r"\b(politic[ao]s?(?!\s+d[eao])|eleicao|eleiç[oõ]es|partido|senador|deputad[oa]|president[ea]|vereador|governador|prefeito)\b",
     r"\b(religi[aã]o|religios[ao]|igrej[ao]|pastor|padre|deus|biblia|bíblia|alcorão|alcorao|budismo|hinduísmo)\b",
     r"\b(violenci[ao]|arma|tiro|matar|assassin|terroris|agress[aã]o|tortur|espancament|bomba)\b",
-    r"\b(droga|cocaina|cocaína|maconha|heroina|heroína|crack|trafic|entorpecent|narcotic)\b",
+    r"\b(drogas?|cocaina|cocaína|maconha|heroina|heroína|crack|trafic|entorpecent|narcotic)\b",
     r"\b(layoff|demiss[aã]o|demiss[oõ]es|demitir|corte.{0,10}pessoal|reestrutura[çc][aã]o.{0,15}demiss)\b",
     r"\b(ignore.{0,20}regras|finja.{0,10}ser|forget.{0,15}instructions|ignore.{0,15}instructions|jailbreak)\b",
 ]
