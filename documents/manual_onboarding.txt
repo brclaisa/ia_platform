@@ -1,0 +1,36 @@
+Manual de Onboarding - Novos Colaboradores
+
+Bem-vindo à empresa! Este manual contém as informações essenciais para os seus primeiros dias.
+
+1. PRIMEIRO DIA
+- Compareça às 9h na recepção do prédio principal.
+- Traga documento de identidade com foto e comprovante de endereço.
+- Você receberá seu crachá de acesso e equipamentos (notebook, mouse, headset).
+- A equipe de TI fará a configuração do seu e-mail e acessos aos sistemas.
+
+2. PRIMEIRA SEMANA
+- Participe da integração geral na segunda-feira (9h-12h).
+- Conheça seu gestor e equipe na reunião de apresentação.
+- Complete os treinamentos obrigatórios na plataforma de aprendizado:
+  * Código de Ética e Conduta
+  * Segurança da Informação
+  * LGPD e Proteção de Dados
+- Configure sua VPN seguindo o tutorial enviado por e-mail.
+
+3. PRIMEIRO MÊS
+- Reúna-se semanalmente com seu gestor para acompanhamento.
+- Defina seus objetivos do período de experiência (90 dias).
+- Familiarize-se com as ferramentas do time (Jira, Confluence, Slack).
+
+4. CANAIS DE SUPORTE
+- TI: suporte@empresa.com ou ramal 1234
+- RH: rh@empresa.com ou ramal 5678
+- Facilities: facilities@empresa.com ou ramal 9012
+
+5. BENEFÍCIOS
+- Vale Refeição: R$ 40,00/dia útil
+- Vale Transporte: desconto de 6% conforme lei
+- Plano de Saúde: cobertura nacional, sem coparticipação
+- Plano Odontológico: cobertura básica incluída
+- Gympass: acesso a academias e bem-estar
+- Day off no aniversário
